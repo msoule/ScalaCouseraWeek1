@@ -5,6 +5,6 @@
       <option name="deprecationWarnings" value="true" />
       <option name="featureWarnings" value="true" />
     </profile>
-    <profile name="SBT 2" modules="project,recitations" />
+    <profile name="SBT 2" modules="recitations" />
   </component>
 </project>

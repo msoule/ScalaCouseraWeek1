@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scalatest_2.11-2.2.4-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/recfun/lib_managed/srcs/org.scalatest/scalatest_2.11/scalatest_2.11-2.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
